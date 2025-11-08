@@ -1,0 +1,5 @@
+{
+  "name": "Number Plate Recognition",
+  "description": "An intelligent system that uses AI to automatically detect and recognize number plates from uploaded images, leveraging advanced computer vision and optical character recognition.",
+  "requestFramePermissions": []
+}
